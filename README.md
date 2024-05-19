@@ -1,1 +1,3 @@
-# First_repo
+# First_repo 
+
+I'm excited to **learn** about data science
